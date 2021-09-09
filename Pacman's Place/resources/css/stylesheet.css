@@ -1,0 +1,23 @@
+body {
+    background-color: lightblue;
+}
+
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+h1 {
+    font-size: 40px
+}
+
+h2 {
+    font-size: 28px
+}
+
+p {
+    font-size: 24px
+}
+
+li {
+    font-size: 24px
+}
